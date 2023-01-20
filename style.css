@@ -1,30 +1,46 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #cabecalho {
     top: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: #009B4D;
     position: fixed;
+    padding: 0px;
 }
 
 #titulo {
-
+    color: #FAF5E9;
+    font-weight: bolder;
 }
 
 #minha_foto {
-    border-radius: 20%;
+    border-radius: 30%;
     width: 10%;
-    height: 10%;
+    height: 20%;
+    position: absolute;
+    top: 3px;
 }
 
 #licoes_aprendidas {
-
+    position: absolute;
+    top: 200px;
+    
 }
 
 #licoes_a_aprender {
-
+    position: absolute;
+    top: 440px;
 }
 
 #rodape {
+    position: fixed;
+    bottom: 0px;
+}
 
+h3 {
+    font-size: 18;
 }
