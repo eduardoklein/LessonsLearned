@@ -52,7 +52,14 @@ article {
     width: 20%;
     position: absolute;
     top: 260px;
-    right: 400px;
+    right: 700px;
+    text-align: justify;
+}
+aside {
+    position: absolute;
+    width: 20%;
+    top: 277px;
+    right: 300px;
     text-align: justify;
 }
 
