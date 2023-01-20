@@ -4,6 +4,7 @@ body {
 
 #cabecalho {
     top: 0px;
+    position: fixed;
 }
 
 #titulo {
@@ -25,5 +26,5 @@ body {
 }
 
 #rodape {
-    
+
 }
