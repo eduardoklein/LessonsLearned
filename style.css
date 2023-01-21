@@ -1,73 +1,71 @@
 body {
-    background-color: rgb(253, 251, 251);
-    font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(253, 251, 251);
+  font-family: Times New Roman, Times, serif;
 }
 
+
 #cabecalho {
-    top: 0px;
-    width: 100%;
-    text-align: center;
-    background-color: #009B4D;
-    position: fixed;
-    padding: 0px;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  padding: 0;
 }
 
 #titulo {
-    color: #FAF5E9;
-    font-weight: bolder;
+  font-weight: 700;
 }
 
 #minha_foto {
-    border-radius: 30%;
-    width: 10%;
-    height: 20%;
-    position: absolute;
-    top: 3px;
+  border-radius: 30%;
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  top: 3px;
 }
 
 #licoes_aprendidas {
-    position: absolute;
-    top: 200px;
-    
+  position: absolute;
+  top: 200px;
 }
 
 #licoes_a_aprender {
-    position: absolute;
-    top: 440px;
+  position: absolute;
+  top: 440px;
 }
 
 a {
-    position: absolute;
-    top: 5%;
-    left: 11%;
-    text-decoration: none;
-    background-color: #FFCC00;
-    border-radius: 20%;
-    text-align: center;
-    height: 20px;
-    width: 50px;
+  position: absolute;
+  top: 5%;
+  left: 11%;
+  text-decoration: none;
+  border-radius: 20%;
+  text-align: center;
+  height: 20px;
+  width: 50px;
 }
 
 article {
-    width: 20%;
-    position: absolute;
-    top: 260px;
-    right: 700px;
-    text-align: justify;
+  width: 20%;
+  position: absolute;
+  top: 260px;
+  right: 700px;
+  text-align: justify;
 }
+
 aside {
-    position: absolute;
-    width: 20%;
-    top: 277px;
-    right: 300px;
-    text-align: justify;
+  position: absolute;
+  width: 20%;
+  top: 277px;
+  right: 300px;
+  text-align: justify;
 }
 
 #rodape {
-    position: fixed;
-    bottom: 10px;
+  position: fixed;
+  bottom: 10px;
 }
 
 h2 {
-    font-size: 18px;
+  font-size: 18px;
 }
